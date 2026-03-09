@@ -3,9 +3,7 @@
 This project explores electricity consumption patterns using data analysis techniques.
 
 ## Tools Used
-- Python
-- Excel
-- Power BI
+- Tablaeu 
 - SQL
 
 ## Objective
